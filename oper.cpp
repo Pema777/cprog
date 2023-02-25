@@ -11,7 +11,7 @@ public:
         length = l;
         breadth = b;
     }
-    void operator++()
+    void operator ++()
     {
         ++length;
         ++breadth;
